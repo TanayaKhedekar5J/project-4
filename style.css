@@ -1,0 +1,11 @@
+@import url(https://fonts.google.com/specimen/Praise);
+body {  background: #e0b0e9;  text-align: center;  font-family: poppins;}
+.container {  margin-left: 600px;  margin-top: 100px;  position: relative;  width: 350px;  height: 500px;  border-radius: 20px;  background: #df916d;  box-shadow: 14px 14px 20px #CBCED1, -14px -14px 20px white;}
+.brand-title {  font-weight: 900;  font-size: 40px;  color: #d21df2;  letter-spacing: 1px;  padding: 30px;}
+.inputs {  text-align: center;  margin-top: 0px;}
+label, input, button {  width: 100%;  border: none;  outline: none;  font-size: 20px;}
+input::placeholder {  color: rgb(241, 177, 211);}
+input {  width: 330px;  background: #ECF0F3;  height: 50px;  font-size: 14px;  border-radius: 50px;  box-shadow: inset 6px 6px 6px #CBCED1, inset -6px -6px 6px white;}
+button {  margin-top: 50px;  width: 330px;  background: palevioletred;  height: 40px;  border-radius: 20px;  cursor: pointer;  font-weight: 900;  box-shadow: 6px 6px 6px #CBCED1, -6px -6px 6px white;}
+button:hover {  box-shadow: peachpuff;} 
+body{background-attachment: fixed; background-image: Butterfly.1;}
